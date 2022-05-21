@@ -1,0 +1,21 @@
+OutputPath Instance
+OutputName instance
+
+NumCells 100 150
+NumInstances 10000 10000
+NumLibCellPins 2 4
+TopCellWidth 5 8
+BottomCellWidth 3 6
+
+NumNetPins 3 5
+BlockCellSize 200 200
+BlockCrossPinSize 30 40
+
+TopBottomHeight 10 15
+TopDieMaxUitl 75 85
+BottomDieMaxUitl 75 85
+
+NumTechnologies 2
+
+TerminalSize 10 10
+TerminalSpacing 5
