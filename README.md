@@ -1,2 +1,4 @@
-# 3D-Placement-Data-Generator
-Generator data set for ICCAD2022 problem B
+# 三维芯片布局问题数据生成器
+为ICCAD2022竞赛中三维芯片布局问题生成算例
+
+可以通过Data/config.txt中参数修改改变生成数据的范围以及电路特征
